@@ -9,7 +9,7 @@ def main():
     """Ana fonksiyon"""
     print("Merhaba Dünya!")
     print("Diyabet Projesi başlatılıyor...")
-    # import numpy as np lineer cebir kütüphanesi
+    # import numpy as np lineer cebir kütüphanesi x
     
 
     
